@@ -1,0 +1,208 @@
+Group	Measurement	Parameter	Unit	Value
+BME Lab Test	1	HIT (O&P)	MPa	1158.753
+BME Lab Test	1	HVIT (O&P)	Vickers	107.313
+BME Lab Test	1	EIT (O&P)	GPa	28.867
+BME Lab Test	1	E* (O&P)	GPa	31.722
+BME Lab Test	1	Er (O&P)	GPa	30.868
+BME Lab Test	1	hm (O&P)	nm	1028.605
+BME Lab Test	1	Fm (O&P)	mN	25.085
+BME Lab Test	1	S (O&P)	mN/nm	0.168
+BME Lab Test	1	Poisson's ratio	Nu	0.300
+BME Lab Test	1	hc (O&P)	nm	917.933
+BME Lab Test	1	hr (O&P)	nm	878.907
+BME Lab Test	1	hp (O&P)	nm	778.010
+BME Lab Test	1	Epsilon (O&P)		0.739
+BME Lab Test	1	Ap (O&P)	nm²	21648064.000
+BME Lab Test	1	m (O&P)		1.674
+BME Lab Test	1	CIT	%	4.967
+BME Lab Test	1	RIT	%	-0.822
+BME Lab Test	1	Welast	pJ	2361.016
+BME Lab Test	1	Wplast	pJ	8146.454
+BME Lab Test	1	Wtotal	pJ	10507.470
+BME Lab Test	1	nit	%	22.470
+BME Lab Test	1	X	µm	11926.333
+BME Lab Test	1	Y	µm	34167.434
+BME Lab Test	2	HIT (O&P)	MPa	1276.048
+BME Lab Test	2	HVIT (O&P)	Vickers	118.176
+BME Lab Test	2	EIT (O&P)	GPa	30.768
+BME Lab Test	2	E* (O&P)	GPa	33.811
+BME Lab Test	2	Er (O&P)	GPa	32.842
+BME Lab Test	2	hm (O&P)	nm	1032.144
+BME Lab Test	2	Fm (O&P)	mN	27.581
+BME Lab Test	2	S (O&P)	mN/nm	0.178
+BME Lab Test	2	Poisson's ratio	Nu	0.300
+BME Lab Test	2	hc (O&P)	nm	917.204
+BME Lab Test	2	hr (O&P)	nm	877.322
+BME Lab Test	2	hp (O&P)	nm	782.586
+BME Lab Test	2	Epsilon (O&P)		0.742
+BME Lab Test	2	Ap (O&P)	nm²	21614760.000
+BME Lab Test	2	m (O&P)		1.612
+BME Lab Test	2	CIT	%	4.593
+BME Lab Test	2	RIT	%	-0.753
+BME Lab Test	2	Welast	pJ	2648.828
+BME Lab Test	2	Wplast	pJ	8757.178
+BME Lab Test	2	Wtotal	pJ	11406.007
+BME Lab Test	2	nit	%	23.223
+BME Lab Test	2	X	µm	11914.467
+BME Lab Test	2	Y	µm	34201.336
+BME Lab Test	3	HIT (O&P)	MPa	1271.934
+BME Lab Test	3	HVIT (O&P)	Vickers	117.795
+BME Lab Test	3	EIT (O&P)	GPa	30.925
+BME Lab Test	3	E* (O&P)	GPa	33.983
+BME Lab Test	3	Er (O&P)	GPa	33.005
+BME Lab Test	3	hm (O&P)	nm	1019.707
+BME Lab Test	3	Fm (O&P)	mN	26.915
+BME Lab Test	3	S (O&P)	mN/nm	0.177
+BME Lab Test	3	Poisson's ratio	Nu	0.300
+BME Lab Test	3	hc (O&P)	nm	907.205
+BME Lab Test	3	hr (O&P)	nm	867.766
+BME Lab Test	3	hp (O&P)	nm	768.796
+BME Lab Test	3	Epsilon (O&P)		0.740
+BME Lab Test	3	Ap (O&P)	nm²	21161034.000
+BME Lab Test	3	m (O&P)		1.651
+BME Lab Test	3	CIT	%	4.472
+BME Lab Test	3	RIT	%	-0.774
+BME Lab Test	3	Welast	pJ	2578.549
+BME Lab Test	3	Wplast	pJ	8328.712
+BME Lab Test	3	Wtotal	pJ	10907.262
+BME Lab Test	3	nit	%	23.641
+BME Lab Test	3	X	µm	11953.200
+BME Lab Test	3	Y	µm	34161.070
+BME Lab Test	4	HIT (O&P)	MPa	1222.837
+BME Lab Test	4	HVIT (O&P)	Vickers	113.248
+BME Lab Test	4	EIT (O&P)	GPa	29.911
+BME Lab Test	4	E* (O&P)	GPa	32.869
+BME Lab Test	4	Er (O&P)	GPa	31.953
+BME Lab Test	4	hm (O&P)	nm	1026.003
+BME Lab Test	4	Fm (O&P)	mN	26.240
+BME Lab Test	4	S (O&P)	mN/nm	0.173
+BME Lab Test	4	Poisson's ratio	Nu	0.300
+BME Lab Test	4	hc (O&P)	nm	913.769
+BME Lab Test	4	hr (O&P)	nm	874.060
+BME Lab Test	4	hp (O&P)	nm	769.692
+BME Lab Test	4	Epsilon (O&P)		0.739
+BME Lab Test	4	Ap (O&P)	nm²	21458366.000
+BME Lab Test	4	m (O&P)		1.687
+BME Lab Test	4	CIT	%	4.724
+BME Lab Test	4	RIT	%	-0.811
+BME Lab Test	4	Welast	pJ	2511.802
+BME Lab Test	4	Wplast	pJ	8166.409
+BME Lab Test	4	Wtotal	pJ	10678.211
+BME Lab Test	4	nit	%	23.523
+BME Lab Test	4	X	µm	11758.466
+BME Lab Test	4	Y	µm	34149.402
+BME Lab Test	5	HIT (O&P)	MPa	1166.422
+BME Lab Test	5	HVIT (O&P)	Vickers	108.023
+BME Lab Test	5	EIT (O&P)	GPa	26.734
+BME Lab Test	5	E* (O&P)	GPa	29.378
+BME Lab Test	5	Er (O&P)	GPa	28.644
+BME Lab Test	5	hm (O&P)	nm	1023.558
+BME Lab Test	5	Fm (O&P)	mN	24.573
+BME Lab Test	5	S (O&P)	mN/nm	0.153
+BME Lab Test	5	Poisson's ratio	Nu	0.300
+BME Lab Test	5	hc (O&P)	nm	905.118
+BME Lab Test	5	hr (O&P)	nm	863.365
+BME Lab Test	5	hp (O&P)	nm	755.577
+BME Lab Test	5	Epsilon (O&P)		0.739
+BME Lab Test	5	Ap (O&P)	nm²	21066944.000
+BME Lab Test	5	m (O&P)		1.673
+BME Lab Test	5	CIT	%	5.119
+BME Lab Test	5	RIT	%	-0.888
+BME Lab Test	5	Welast	pJ	2508.390
+BME Lab Test	5	Wplast	pJ	7861.088
+BME Lab Test	5	Wtotal	pJ	10369.478
+BME Lab Test	5	nit	%	24.190
+BME Lab Test	5	X	µm	11728.333
+BME Lab Test	5	Y	µm	34179.070
+BME Lab Test	6	HIT (O&P)	MPa	1435.508
+BME Lab Test	6	HVIT (O&P)	Vickers	132.944
+BME Lab Test	6	EIT (O&P)	GPa	34.501
+BME Lab Test	6	E* (O&P)	GPa	37.913
+BME Lab Test	6	Er (O&P)	GPa	36.699
+BME Lab Test	6	hm (O&P)	nm	1014.358
+BME Lab Test	6	Fm (O&P)	mN	29.924
+BME Lab Test	6	S (O&P)	mN/nm	0.195
+BME Lab Test	6	Poisson's ratio	Nu	0.300
+BME Lab Test	6	hc (O&P)	nm	900.190
+BME Lab Test	6	hr (O&P)	nm	861.292
+BME Lab Test	6	hp (O&P)	nm	775.731
+BME Lab Test	6	Epsilon (O&P)		0.746
+BME Lab Test	6	Ap (O&P)	nm²	20845626.000
+BME Lab Test	6	m (O&P)		1.559
+BME Lab Test	6	CIT	%	4.158
+BME Lab Test	6	RIT	%	-0.692
+BME Lab Test	6	Welast	pJ	2842.259
+BME Lab Test	6	Wplast	pJ	7997.180
+BME Lab Test	6	Wtotal	pJ	10839.438
+BME Lab Test	6	nit	%	26.221
+BME Lab Test	6	X	µm	11759.533
+BME Lab Test	6	Y	µm	34180.133
+BME Lab Test	7	HIT (O&P)	MPa	1165.855
+BME Lab Test	7	HVIT (O&P)	Vickers	107.971
+BME Lab Test	7	EIT (O&P)	GPa	29.869
+BME Lab Test	7	E* (O&P)	GPa	32.824
+BME Lab Test	7	Er (O&P)	GPa	31.910
+BME Lab Test	7	hm (O&P)	nm	1032.875
+BME Lab Test	7	Fm (O&P)	mN	25.571
+BME Lab Test	7	S (O&P)	mN/nm	0.174
+BME Lab Test	7	Poisson's ratio	Nu	0.300
+BME Lab Test	7	hc (O&P)	nm	924.168
+BME Lab Test	7	hr (O&P)	nm	886.220
+BME Lab Test	7	hp (O&P)	nm	793.070
+BME Lab Test	7	Epsilon (O&P)		0.741
+BME Lab Test	7	Ap (O&P)	nm²	21933660.000
+BME Lab Test	7	m (O&P)		1.635
+BME Lab Test	7	CIT	%	5.051
+BME Lab Test	7	RIT	%	-0.838
+BME Lab Test	7	Welast	pJ	2336.796
+BME Lab Test	7	Wplast	pJ	8353.093
+BME Lab Test	7	Wtotal	pJ	10689.889
+BME Lab Test	7	nit	%	21.860
+BME Lab Test	7	X	µm	11803.667
+BME Lab Test	7	Y	µm	33919.469
+BME Lab Test	8	HIT (O&P)	MPa	986.992
+BME Lab Test	8	HVIT (O&P)	Vickers	91.406
+BME Lab Test	8	EIT (O&P)	GPa	28.280
+BME Lab Test	8	E* (O&P)	GPa	31.077
+BME Lab Test	8	Er (O&P)	GPa	30.257
+BME Lab Test	8	hm (O&P)	nm	798.064
+BME Lab Test	8	Fm (O&P)	mN	13.431
+BME Lab Test	8	S (O&P)	mN/nm	0.130
+BME Lab Test	8	Poisson's ratio	Nu	0.300
+BME Lab Test	8	hc (O&P)	nm	721.339
+BME Lab Test	8	hr (O&P)	nm	694.925
+BME Lab Test	8	hp (O&P)	nm	634.363
+BME Lab Test	8	Epsilon (O&P)		0.744
+BME Lab Test	8	Ap (O&P)	nm²	13608520.000
+BME Lab Test	8	m (O&P)		1.587
+BME Lab Test	8	CIT	%	5.002
+BME Lab Test	8	RIT	%	-1.577
+BME Lab Test	8	Welast	pJ	875.483
+BME Lab Test	8	Wplast	pJ	2992.315
+BME Lab Test	8	Wtotal	pJ	3867.797
+BME Lab Test	8	nit	%	22.635
+BME Lab Test	8	X	µm	11827.333
+BME Lab Test	8	Y	µm	33923.699
+BME Lab Test	9	HIT (O&P)	MPa	1226.773
+BME Lab Test	9	HVIT (O&P)	Vickers	113.613
+BME Lab Test	9	EIT (O&P)	GPa	28.483
+BME Lab Test	9	E* (O&P)	GPa	31.300
+BME Lab Test	9	Er (O&P)	GPa	30.468
+BME Lab Test	9	hm (O&P)	nm	1022.866
+BME Lab Test	9	Fm (O&P)	mN	25.908
+BME Lab Test	9	S (O&P)	mN/nm	0.163
+BME Lab Test	9	Poisson's ratio	Nu	0.300
+BME Lab Test	9	hc (O&P)	nm	906.271
+BME Lab Test	9	hr (O&P)	nm	864.274
+BME Lab Test	9	hp (O&P)	nm	744.342
+BME Lab Test	9	Epsilon (O&P)		0.735
+BME Lab Test	9	Ap (O&P)	nm²	21118916.000
+BME Lab Test	9	m (O&P)		1.756
+BME Lab Test	9	CIT	%	5.014
+BME Lab Test	9	RIT	%	-0.829
+BME Lab Test	9	Welast	pJ	2671.083
+BME Lab Test	9	Wplast	pJ	8065.407
+BME Lab Test	9	Wtotal	pJ	10736.489
+BME Lab Test	9	nit	%	24.879
+BME Lab Test	9	X	µm	11819.801
+BME Lab Test	9	Y	µm	33883.434
