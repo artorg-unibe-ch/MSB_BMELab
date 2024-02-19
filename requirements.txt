@@ -1,1 +1,4 @@
-numpy==1.25.0
+numpy
+pandas
+matplotlib
+scipy
