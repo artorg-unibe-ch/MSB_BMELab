@@ -1,0 +1,404 @@
+Group	Measurement	Parameter	Unit	Value
+Test	1	HIT (O&P)	MPa	1261.552
+Test	1	HVIT (O&P)	Vickers	116.833
+Test	1	EIT (O&P)	GPa	29.496
+Test	1	E* (O&P)	GPa	32.413
+Test	1	Er (O&P)	GPa	31.522
+Test	1	hm (O&P)	nm	1028.006
+Test	1	Fm (O&P)	mN	26.913
+Test	1	S (O&P)	mN/nm	0.170
+Test	1	Poisson's ratio	Nu	0.300
+Test	1	hc (O&P)	nm	911.007
+Test	1	hr (O&P)	nm	869.572
+Test	1	hp (O&P)	nm	760.163
+Test	1	Epsilon (O&P)		0.738
+Test	1	Ap (O&P)	nm²	21333012.000
+Test	1	m (O&P)		1.691
+Test	1	CIT	%	4.667
+Test	1	RIT	%	-0.791
+Test	1	Welast	pJ	2696.462
+Test	1	Wplast	pJ	8286.196
+Test	1	Wtotal	pJ	10982.659
+Test	1	nit	%	24.552
+Test	1	X	µm	12714.400
+Test	1	Y	µm	32672.166
+Test	2	HIT (O&P)	MPa	1355.045
+Test	2	HVIT (O&P)	Vickers	125.492
+Test	2	EIT (O&P)	GPa	31.765
+Test	2	E* (O&P)	GPa	34.907
+Test	2	Er (O&P)	GPa	33.875
+Test	2	hm (O&P)	nm	1028.925
+Test	2	Fm (O&P)	mN	28.915
+Test	2	S (O&P)	mN/nm	0.183
+Test	2	Poisson's ratio	Nu	0.300
+Test	2	hc (O&P)	nm	911.132
+Test	2	hr (O&P)	nm	870.554
+Test	2	hp (O&P)	nm	777.290
+Test	2	Epsilon (O&P)		0.744
+Test	2	Ap (O&P)	nm²	21338674.000
+Test	2	m (O&P)		1.589
+Test	2	CIT	%	4.606
+Test	2	RIT	%	-0.725
+Test	2	Welast	pJ	2831.084
+Test	2	Wplast	pJ	9097.855
+Test	2	Wtotal	pJ	11928.939
+Test	2	nit	%	23.733
+Test	2	X	µm	12698.267
+Test	2	Y	µm	32703.967
+Test	3	HIT (O&P)	MPa	1282.221
+Test	3	HVIT (O&P)	Vickers	118.748
+Test	3	EIT (O&P)	GPa	30.603
+Test	3	E* (O&P)	GPa	33.629
+Test	3	Er (O&P)	GPa	32.671
+Test	3	hm (O&P)	nm	1020.536
+Test	3	Fm (O&P)	mN	27.075
+Test	3	S (O&P)	mN/nm	0.175
+Test	3	Poisson's ratio	Nu	0.300
+Test	3	hc (O&P)	nm	906.192
+Test	3	hr (O&P)	nm	865.967
+Test	3	hp (O&P)	nm	763.201
+Test	3	Epsilon (O&P)		0.740
+Test	3	Ap (O&P)	nm²	21115350.000
+Test	3	m (O&P)		1.665
+Test	3	CIT	%	4.630
+Test	3	RIT	%	-0.796
+Test	3	Welast	pJ	2628.324
+Test	3	Wplast	pJ	8435.538
+Test	3	Wtotal	pJ	11063.862
+Test	3	nit	%	23.756
+Test	3	X	µm	12788.633
+Test	3	Y	µm	32693.367
+Test	4	HIT (O&P)	MPa	1286.184
+Test	4	HVIT (O&P)	Vickers	119.115
+Test	4	EIT (O&P)	GPa	29.967
+Test	4	E* (O&P)	GPa	32.931
+Test	4	Er (O&P)	GPa	32.012
+Test	4	hm (O&P)	nm	1034.302
+Test	4	Fm (O&P)	mN	27.734
+Test	4	S (O&P)	mN/nm	0.173
+Test	4	Poisson's ratio	Nu	0.300
+Test	4	hc (O&P)	nm	916.076
+Test	4	hr (O&P)	nm	874.391
+Test	4	hp (O&P)	nm	766.703
+Test	4	Epsilon (O&P)		0.739
+Test	4	Ap (O&P)	nm²	21563328.000
+Test	4	m (O&P)		1.673
+Test	4	CIT	%	4.763
+Test	4	RIT	%	-0.787
+Test	4	Welast	pJ	2786.314
+Test	4	Wplast	pJ	8840.396
+Test	4	Wtotal	pJ	11626.711
+Test	4	nit	%	23.965
+Test	4	X	µm	12546.534
+Test	4	Y	µm	32673.236
+Test	5	HIT (O&P)	MPa	1171.856
+Test	5	HVIT (O&P)	Vickers	108.527
+Test	5	EIT (O&P)	GPa	27.267
+Test	5	E* (O&P)	GPa	29.964
+Test	5	Er (O&P)	GPa	29.201
+Test	5	hm (O&P)	nm	1025.145
+Test	5	Fm (O&P)	mN	24.909
+Test	5	S (O&P)	mN/nm	0.157
+Test	5	Poisson's ratio	Nu	0.300
+Test	5	hc (O&P)	nm	909.302
+Test	5	hr (O&P)	nm	866.569
+Test	5	hp (O&P)	nm	726.615
+Test	5	Epsilon (O&P)		0.731
+Test	5	Ap (O&P)	nm²	21255784.000
+Test	5	m (O&P)		1.883
+Test	5	CIT	%	4.916
+Test	5	RIT	%	-0.863
+Test	5	Welast	pJ	2598.524
+Test	5	Wplast	pJ	7615.922
+Test	5	Wtotal	pJ	10214.445
+Test	5	nit	%	25.440
+Test	5	X	µm	12575.601
+Test	5	Y	µm	32628.734
+Test	6	HIT (O&P)	MPa	1160.122
+Test	6	HVIT (O&P)	Vickers	107.440
+Test	6	EIT (O&P)	GPa	27.514
+Test	6	E* (O&P)	GPa	30.235
+Test	6	Er (O&P)	GPa	29.458
+Test	6	hm (O&P)	nm	1028.180
+Test	6	Fm (O&P)	mN	24.905
+Test	6	S (O&P)	mN/nm	0.159
+Test	6	Poisson's ratio	Nu	0.300
+Test	6	hc (O&P)	nm	913.981
+Test	6	hr (O&P)	nm	871.785
+Test	6	hp (O&P)	nm	732.062
+Test	6	Epsilon (O&P)		0.730
+Test	6	Ap (O&P)	nm²	21467982.000
+Test	6	m (O&P)		1.893
+Test	6	CIT	%	4.935
+Test	6	RIT	%	-0.875
+Test	6	Welast	pJ	2552.452
+Test	6	Wplast	pJ	7692.862
+Test	6	Wtotal	pJ	10245.314
+Test	6	nit	%	24.913
+Test	6	X	µm	12534.700
+Test	6	Y	µm	32629.770
+Test	7	HIT (O&P)	MPa	1247.497
+Test	7	HVIT (O&P)	Vickers	115.532
+Test	7	EIT (O&P)	GPa	27.906
+Test	7	E* (O&P)	GPa	30.666
+Test	7	Er (O&P)	GPa	29.867
+Test	7	hm (O&P)	nm	1036.471
+Test	7	Fm (O&P)	mN	26.736
+Test	7	S (O&P)	mN/nm	0.161
+Test	7	Poisson's ratio	Nu	0.300
+Test	7	hc (O&P)	nm	913.192
+Test	7	hr (O&P)	nm	870.742
+Test	7	hp (O&P)	nm	773.341
+Test	7	Epsilon (O&P)		0.744
+Test	7	Ap (O&P)	nm²	21432120.000
+Test	7	m (O&P)		1.588
+Test	7	CIT	%	4.932
+Test	7	RIT	%	-0.809
+Test	7	Welast	pJ	2745.524
+Test	7	Wplast	pJ	8622.434
+Test	7	Wtotal	pJ	11367.957
+Test	7	nit	%	24.151
+Test	7	X	µm	12764.967
+Test	7	Y	µm	32553.469
+Test	8	HIT (O&P)	MPa	1252.854
+Test	8	HVIT (O&P)	Vickers	116.028
+Test	8	EIT (O&P)	GPa	29.512
+Test	8	E* (O&P)	GPa	32.430
+Test	8	Er (O&P)	GPa	31.538
+Test	8	hm (O&P)	nm	1024.842
+Test	8	Fm (O&P)	mN	26.582
+Test	8	S (O&P)	mN/nm	0.169
+Test	8	Poisson's ratio	Nu	0.300
+Test	8	hc (O&P)	nm	908.453
+Test	8	hr (O&P)	nm	868.011
+Test	8	hp (O&P)	nm	771.178
+Test	8	Epsilon (O&P)		0.742
+Test	8	Ap (O&P)	nm²	21217406.000
+Test	8	m (O&P)		1.617
+Test	8	CIT	%	4.681
+Test	8	RIT	%	-0.778
+Test	8	Welast	pJ	2623.989
+Test	8	Wplast	pJ	8287.046
+Test	8	Wtotal	pJ	10911.034
+Test	8	nit	%	24.049
+Test	8	X	µm	12782.167
+Test	8	Y	µm	32528.068
+Test	9	HIT (O&P)	MPa	1238.835
+Test	9	HVIT (O&P)	Vickers	114.730
+Test	9	EIT (O&P)	GPa	29.935
+Test	9	E* (O&P)	GPa	32.895
+Test	9	Er (O&P)	GPa	31.978
+Test	9	hm (O&P)	nm	1024.458
+Test	9	Fm (O&P)	mN	26.410
+Test	9	S (O&P)	mN/nm	0.172
+Test	9	Poisson's ratio	Nu	0.300
+Test	9	hc (O&P)	nm	910.681
+Test	9	hr (O&P)	nm	871.150
+Test	9	hp (O&P)	nm	776.536
+Test	9	Epsilon (O&P)		0.742
+Test	9	Ap (O&P)	nm²	21318244.000
+Test	9	m (O&P)		1.617
+Test	9	CIT	%	4.665
+Test	9	RIT	%	-0.802
+Test	9	Welast	pJ	2520.582
+Test	9	Wplast	pJ	8316.839
+Test	9	Wtotal	pJ	10837.421
+Test	9	nit	%	23.258
+Test	9	X	µm	12815.533
+Test	9	Y	µm	32508.969
+Test	10	HIT (O&P)	MPa	1141.435
+Test	10	HVIT (O&P)	Vickers	105.709
+Test	10	EIT (O&P)	GPa	30.098
+Test	10	E* (O&P)	GPa	33.074
+Test	10	Er (O&P)	GPa	32.147
+Test	10	hm (O&P)	nm	1022.042
+Test	10	Fm (O&P)	mN	24.739
+Test	10	S (O&P)	mN/nm	0.175
+Test	10	Poisson's ratio	Nu	0.300
+Test	10	hc (O&P)	nm	918.501
+Test	10	hr (O&P)	nm	880.363
+Test	10	hp (O&P)	nm	756.717
+Test	10	Epsilon (O&P)		0.731
+Test	10	Ap (O&P)	nm²	21673972.000
+Test	10	m (O&P)		1.873
+Test	10	CIT	%	4.862
+Test	10	RIT	%	-0.889
+Test	10	Welast	pJ	2269.056
+Test	10	Wplast	pJ	7860.744
+Test	10	Wtotal	pJ	10129.800
+Test	10	nit	%	22.400
+Test	10	X	µm	12904.533
+Test	10	Y	µm	34002.766
+Test	11	HIT (O&P)	MPa	1312.955
+Test	11	HVIT (O&P)	Vickers	121.594
+Test	11	EIT (O&P)	GPa	31.556
+Test	11	E* (O&P)	GPa	34.677
+Test	11	Er (O&P)	GPa	33.659
+Test	11	hm (O&P)	nm	1020.528
+Test	11	Fm (O&P)	mN	27.741
+Test	11	S (O&P)	mN/nm	0.181
+Test	11	Poisson's ratio	Nu	0.300
+Test	11	hc (O&P)	nm	906.493
+Test	11	hr (O&P)	nm	866.851
+Test	11	hp (O&P)	nm	771.713
+Test	11	Epsilon (O&P)		0.742
+Test	11	Ap (O&P)	nm²	21128912.000
+Test	11	m (O&P)		1.619
+Test	11	CIT	%	4.053
+Test	11	RIT	%	-0.786
+Test	11	Welast	pJ	2626.225
+Test	11	Wplast	pJ	8481.298
+Test	11	Wtotal	pJ	11107.522
+Test	11	nit	%	23.644
+Test	11	X	µm	12919.601
+Test	11	Y	µm	34031.402
+Test	12	HIT (O&P)	MPa	1262.723
+Test	12	HVIT (O&P)	Vickers	116.942
+Test	12	EIT (O&P)	GPa	30.769
+Test	12	E* (O&P)	GPa	33.812
+Test	12	Er (O&P)	GPa	32.844
+Test	12	hm (O&P)	nm	1029.734
+Test	12	Fm (O&P)	mN	27.236
+Test	12	S (O&P)	mN/nm	0.178
+Test	12	Poisson's ratio	Nu	0.300
+Test	12	hc (O&P)	nm	916.198
+Test	12	hr (O&P)	nm	876.698
+Test	12	hp (O&P)	nm	781.466
+Test	12	Epsilon (O&P)		0.742
+Test	12	Ap (O&P)	nm²	21568930.000
+Test	12	m (O&P)		1.622
+Test	12	CIT	%	4.636
+Test	12	RIT	%	-0.792
+Test	12	Welast	pJ	2613.990
+Test	12	Wplast	pJ	8552.671
+Test	12	Wtotal	pJ	11166.661
+Test	12	nit	%	23.409
+Test	12	X	µm	12946.500
+Test	12	Y	µm	33995.367
+Test	13	HIT (O&P)	MPa	1288.149
+Test	13	HVIT (O&P)	Vickers	119.297
+Test	13	EIT (O&P)	GPa	30.787
+Test	13	E* (O&P)	GPa	33.832
+Test	13	Er (O&P)	GPa	32.862
+Test	13	hm (O&P)	nm	1027.314
+Test	13	Fm (O&P)	mN	27.564
+Test	13	S (O&P)	mN/nm	0.177
+Test	13	Poisson's ratio	Nu	0.300
+Test	13	hc (O&P)	nm	912.450
+Test	13	hr (O&P)	nm	871.902
+Test	13	hp (O&P)	nm	766.502
+Test	13	Epsilon (O&P)		0.739
+Test	13	Ap (O&P)	nm²	21398466.000
+Test	13	m (O&P)		1.678
+Test	13	CIT	%	4.388
+Test	13	RIT	%	-0.802
+Test	13	Welast	pJ	2704.685
+Test	13	Wplast	pJ	8634.287
+Test	13	Wtotal	pJ	11338.973
+Test	13	nit	%	23.853
+Test	13	X	µm	12676.434
+Test	13	Y	µm	34022.902
+Test	14	hm (O&P)	nm	2141.092
+Test	14	Fm (O&P)	mN	0.469
+Test	14	Poisson's ratio	Nu	0.300
+Test	14	hr (O&P)	nm	0.000
+Test	14	hp (O&P)	nm	0.000
+Test	14	CIT	%	3.861
+Test	14	RIT	%	32.726
+Test	14	Welast	pJ	0.000
+Test	14	Wplast	pJ	0.000
+Test	14	Wtotal	pJ	0.000
+Test	14	X	µm	12644.134
+Test	14	Y	µm	34026.102
+Test	15	HIT (O&P)	MPa	1097.370
+Test	15	HVIT (O&P)	Vickers	101.628
+Test	15	EIT (O&P)	GPa	26.913
+Test	15	E* (O&P)	GPa	29.575
+Test	15	Er (O&P)	GPa	28.831
+Test	15	hm (O&P)	nm	1021.806
+Test	15	Fm (O&P)	mN	23.419
+Test	15	S (O&P)	mN/nm	0.155
+Test	15	Poisson's ratio	Nu	0.300
+Test	15	hc (O&P)	nm	911.184
+Test	15	hr (O&P)	nm	871.104
+Test	15	hp (O&P)	nm	753.685
+Test	15	Epsilon (O&P)		0.734
+Test	15	Ap (O&P)	nm²	21341034.000
+Test	15	m (O&P)		1.779
+Test	15	CIT	%	4.482
+Test	15	RIT	%	-0.890
+Test	15	Welast	pJ	2283.656
+Test	15	Wplast	pJ	7179.351
+Test	15	Wtotal	pJ	9463.007
+Test	15	nit	%	24.132
+Test	15	X	µm	12643.066
+Test	15	Y	µm	33983.699
+Test	16	HIT (O&P)	MPa	1162.582
+Test	16	HVIT (O&P)	Vickers	107.668
+Test	16	EIT (O&P)	GPa	28.191
+Test	16	E* (O&P)	GPa	30.979
+Test	16	Er (O&P)	GPa	30.164
+Test	16	hm (O&P)	nm	1019.385
+Test	16	Fm (O&P)	mN	24.584
+Test	16	S (O&P)	mN/nm	0.162
+Test	16	Poisson's ratio	Nu	0.300
+Test	16	hc (O&P)	nm	906.871
+Test	16	hr (O&P)	nm	867.480
+Test	16	hp (O&P)	nm	769.309
+Test	16	Epsilon (O&P)		0.741
+Test	16	Ap (O&P)	nm²	21145976.000
+Test	16	m (O&P)		1.646
+Test	16	CIT	%	4.825
+Test	16	RIT	%	-0.859
+Test	16	Welast	pJ	2329.117
+Test	16	Wplast	pJ	7693.140
+Test	16	Wtotal	pJ	10022.257
+Test	16	nit	%	23.239
+Test	16	X	µm	12848.600
+Test	16	Y	µm	33824.734
+Test	17	HIT (O&P)	MPa	1281.674
+Test	17	HVIT (O&P)	Vickers	118.697
+Test	17	EIT (O&P)	GPa	29.783
+Test	17	E* (O&P)	GPa	32.729
+Test	17	Er (O&P)	GPa	31.820
+Test	17	hm (O&P)	nm	1031.308
+Test	17	Fm (O&P)	mN	27.413
+Test	17	S (O&P)	mN/nm	0.172
+Test	17	Poisson's ratio	Nu	0.300
+Test	17	hc (O&P)	nm	912.231
+Test	17	hr (O&P)	nm	871.652
+Test	17	hp (O&P)	nm	782.318
+Test	17	Epsilon (O&P)		0.746
+Test	17	Ap (O&P)	nm²	21388508.000
+Test	17	m (O&P)		1.560
+Test	17	CIT	%	4.683
+Test	17	RIT	%	-0.759
+Test	17	Welast	pJ	2690.129
+Test	17	Wplast	pJ	8716.346
+Test	17	Wtotal	pJ	11406.475
+Test	17	nit	%	23.584
+Test	17	X	µm	12876.566
+Test	17	Y	µm	33802.500
+Test	18	HIT (O&P)	MPa	1285.497
+Test	18	HVIT (O&P)	Vickers	119.051
+Test	18	EIT (O&P)	GPa	30.067
+Test	18	E* (O&P)	GPa	33.040
+Test	18	Er (O&P)	GPa	32.115
+Test	18	hm (O&P)	nm	1025.995
+Test	18	Fm (O&P)	mN	27.248
+Test	18	S (O&P)	mN/nm	0.173
+Test	18	Poisson's ratio	Nu	0.300
+Test	18	hc (O&P)	nm	907.983
+Test	18	hr (O&P)	nm	868.046
+Test	18	hp (O&P)	nm	782.642
+Test	18	Epsilon (O&P)		0.747
+Test	18	Ap (O&P)	nm²	21196192.000
+Test	18	m (O&P)		1.541
+Test	18	CIT	%	4.520
+Test	18	RIT	%	-0.760
+Test	18	Welast	pJ	2682.590
+Test	18	Wplast	pJ	8650.795
+Test	18	Wtotal	pJ	11333.385
+Test	18	nit	%	23.670
+Test	18	X	µm	12843.200
+Test	18	Y	µm	33764.336
