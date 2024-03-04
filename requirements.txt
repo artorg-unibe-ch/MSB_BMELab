@@ -3,7 +3,4 @@ pandas
 matplotlib
 scipy
 pyarrow
-math
-glob
-os
 seaborn
