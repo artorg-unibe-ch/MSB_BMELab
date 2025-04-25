@@ -4,3 +4,4 @@ matplotlib
 scipy
 pyarrow
 seaborn
+watermark
