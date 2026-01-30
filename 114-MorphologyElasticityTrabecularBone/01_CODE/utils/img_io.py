@@ -97,5 +97,3 @@ def read_image_metadata(file_path: Path):
     }
 
     return metadata
-    return metadata
-    return metadata
