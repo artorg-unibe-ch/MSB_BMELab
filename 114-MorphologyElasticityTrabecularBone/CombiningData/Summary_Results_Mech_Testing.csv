@@ -2,3 +2,4 @@ Sample_ID;Diameter_mm;Initial_Length_mm;Ultimate_Force_N;Ultimate_Stress_MPa;Max
 Test_cycle_count_1;15.0;15.0;-8970.39;-50.73;13504.59;1146.31
 Test_cycle_count_2;14.8;15.2;-8970.39;-52.11;13504.59;1193.2
 Test_cycle_count_3;15.1;14.9;-8970.39;-50.06;13504.59;1123.63
+Test_cycle_count_4;15.2;14.7;-8970.39;-49.4;13504.59;1094.01
