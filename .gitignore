@@ -8,6 +8,7 @@
 
 # simulation files
 *.inp
+!template_sim.inp
 *.12d
 *.cvg
 *.dat
@@ -15,7 +16,8 @@
 *.sta
 *.out
 
-!template_sim.inp
+# results files
+*.tsv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
