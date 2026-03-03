@@ -1,3 +1,22 @@
+# image file formats
+*.ISQ*
+*.isq*
+*.mha
+*.mhd
+*.npy
+*.vtk
+
+# simulation files
+*.inp
+*.12d
+*.cvg
+*.dat
+*.frd
+*.sta
+*.out
+
+!template_sim.inp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
