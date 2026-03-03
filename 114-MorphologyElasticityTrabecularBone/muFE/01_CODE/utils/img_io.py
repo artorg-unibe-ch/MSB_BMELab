@@ -15,7 +15,25 @@ def read_image(file_path: Path):
     Returns:
         np.ndarray: The image data as a NumPy array.
     """
-    itk_image = itk.imread(str(file_path))
+    suffix = file_path.suffix.lower()
+    imageio_map = {
+        ".mha": itk.MetaImageIO.New(),
+        ".mhd": itk.MetaImageIO.New(),
+        ".nii": itk.NiftiImageIO.New(),
+        ".nrrd": itk.NrrdImageIO.New(),
+    }
+    imageio = imageio_map.get(suffix)
+    itk_image = itk.imread(str(file_path), imageio=imageio)  # None = auto (fallback)
+    np_image = itk.array_from_image(itk_image)
+    return itk_image, np_image
+
+
+def read_mha(file_path: Path):
+    """
+    Created because ScancoImageIO incorrectly returns True for MHA files -> sniffing logic too permissive
+    """
+    imageio = itk.MetaImageIO.New()
+    itk_image = itk.imread(str(file_path), imageio=imageio)
     np_image = itk.array_from_image(itk_image)
     return itk_image, np_image
 
@@ -52,42 +70,39 @@ def write_image(img_np: np.ndarray, output_path: Path):
 
 
 def read_image_metadata(file_path: Path):
-    """
-    Read image metadata without loading pixel data into memory.
+    file_path_str = str(file_path)
 
-    Returns:
-        dict: Dictionary containing image metadata
-    """
-    file_path = str(file_path)
-
-    # Create ImageIO object to read metadata only
-    image_io = itk.ImageIOFactory.CreateImageIO(
-        file_path, itk.CommonEnums.IOFileMode_ReadMode
-    )
+    # Bypass buggy ImageIOFactory auto-detection, use MetaImageIO directly for .mha/.mhd
+    suffix = Path(file_path).suffix.lower()
+    imageio_map = {
+        ".mha": itk.MetaImageIO,
+        ".mhd": itk.MetaImageIO,
+        ".nii": itk.NiftiImageIO,
+        ".nrrd": itk.NrrdImageIO,
+    }
+    io_class = imageio_map.get(suffix)
+    
+    if io_class is None:
+        # Fall back to factory for unknown formats
+        image_io = itk.ImageIOFactory.CreateImageIO(
+            file_path_str, itk.CommonEnums.IOFileMode_ReadMode
+        )
+    else:
+        image_io = io_class.New()
 
     if image_io is None:
         raise RuntimeError(f"Could not create ImageIO for {file_path}")
 
-    # Read only the header information
-    image_io.SetFileName(file_path)
+    image_io.SetFileName(file_path_str)
     image_io.ReadImageInformation()
 
-    # Extract metadata
     metadata = {
         "dimensions": image_io.GetNumberOfDimensions(),
-        "size": [
-            image_io.GetDimensions(i) for i in range(image_io.GetNumberOfDimensions())
-        ],
-        "spacing": [
-            image_io.GetSpacing(i) for i in range(image_io.GetNumberOfDimensions())
-        ],
-        "origin": [
-            image_io.GetOrigin(i) for i in range(image_io.GetNumberOfDimensions())
-        ],
+        "size": [image_io.GetDimensions(i) for i in range(image_io.GetNumberOfDimensions())],
+        "spacing": [image_io.GetSpacing(i) for i in range(image_io.GetNumberOfDimensions())],
+        "origin": [image_io.GetOrigin(i) for i in range(image_io.GetNumberOfDimensions())],
         "pixel_type": image_io.GetPixelTypeAsString(image_io.GetPixelType()),
-        "component_type": image_io.GetComponentTypeAsString(
-            image_io.GetComponentType()
-        ),
+        "component_type": image_io.GetComponentTypeAsString(image_io.GetComponentType()),
         "number_of_components": image_io.GetNumberOfComponents(),
         "byte_order": (
             "LittleEndian"
