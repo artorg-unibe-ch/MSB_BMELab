@@ -5,3 +5,4 @@ scipy
 pyarrow
 seaborn
 watermark
+ciclope
