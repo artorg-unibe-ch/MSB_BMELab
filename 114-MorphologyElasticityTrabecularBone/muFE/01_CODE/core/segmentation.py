@@ -82,9 +82,11 @@ def crop_bbox(img_np, padding=10):
 def gaussian_smoothing_itk(img_itk, sigma=1.0):
     """
     Apply Gaussian smoothing to an ITK image
+    https://docs.itk.org/projects/doxygen/en/stable/classitk_1_1SmoothingRecursiveGaussianImageFilter.html
     """
     sigma = 1.0 * img_itk.GetSpacing()[0]
-    seg_smooth = itk.smoothing_recursive_gaussian_image_filter(img_itk, sigma=sigma)
+    # TODO: generate smoothing
+    # seg_smooth = ...
     return seg_smooth
 
 
