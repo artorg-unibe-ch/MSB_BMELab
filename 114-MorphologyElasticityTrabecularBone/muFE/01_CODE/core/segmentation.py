@@ -86,7 +86,9 @@ def gaussian_smoothing_itk(img_itk, sigma=1.0):
     """
     sigma = 1.0 * img_itk.GetSpacing()[0]
     # TODO: generate smoothing
-    # seg_smooth = ...
+    seg_smooth = None
+    if seg_smooth is None:
+        raise NotImplementedError("Exercise 1: implement this function yourself!")
     return seg_smooth
 
 
