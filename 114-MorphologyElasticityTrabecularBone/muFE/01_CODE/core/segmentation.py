@@ -51,7 +51,7 @@ def morph_cleaning(img: np.ndarray, morph_diam: int) -> np.ndarray:
     largest_component = labels == largest_label
 
     # Remove boundary artifacts along the first axis
-    return largest_component[100:-100, :, :]
+    return largest_component[50:582, :, :]
 
 
 def crop_bbox(img_np, padding=10):
@@ -86,7 +86,7 @@ def gaussian_smoothing_itk(img_itk, sigma=1.0):
     """
     sigma = 1.0 * img_itk.GetSpacing()[0]
     # TODO: generate smoothing
-    seg_smooth = None
+    seg_smooth = itk.SmoothingRecursiveGaussianImageFilter(img_itk,sigma=sigma)  
     if seg_smooth is None:
         raise NotImplementedError("Exercise 1: implement this function yourself!")
     return seg_smooth
