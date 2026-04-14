@@ -1,0 +1,5 @@
+Sample_ID;Diameter_mm;Initial_Length_mm;Ultimate_Force_N;Ultimate_Stress_MPa;Initial_Stiffness_Nmm;Max_Stiffness_Nmm;Apparent_Youngs_Modulus_MPa
+1;14.0;20.28;-597.09;-3.87;1176.4;2524.31;154.98
+2;14.0;20.44;-1522.44;-9.87;4399.59;6545.38;584.18
+A5;14.0;20.2;-709.81;-4.84;4586.8;6502.82;601.89
+B3;14.0;20.19;-2741.09;-18.96;10232.34;18061.31;1342.04
